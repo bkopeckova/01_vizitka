@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../zkušební stránka"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01_Vizitka"
+	}
+}

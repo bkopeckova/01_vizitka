@@ -1,0 +1,63 @@
+/* barva modrá #9797143
+*/
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(197, 23, 23)
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+
+.ramecek {
+    text-align: left;
+    color: rgb(172, 168, 168);
+    background-color: rgb(56, 109, 4);
+
+    max-width: 60%;
+    border: solid; color: rgb(197, 186, 197);
+  
+
+}
+
+
+
+
+
+
+
+.fotka {
+width: 200px;
+height: auto;
+padding: auto; 
+margin: auto;
+border: solid;  color: white;
+margin-right: auto;
+margin-left: auto;
+
+}
+
+
+
+
+.text {
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+a:hover {
+    color: rgb(7, 253, 81);
+
+
+}
+
+.kontakt {
+
+    text-align: center;
+}
